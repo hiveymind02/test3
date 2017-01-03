@@ -25,14 +25,6 @@
     </p>
 </body>
 
-<footer>
-    
-    <a href="http://www.reddit.com/message/compose?to=%2Fr%2FCFB">Have a comment or would like to report an issue? Message us!</a>
-    <a href="load.html"><img src="http://i.imgur.com/lSfwLmI.jpg"
-        height= 5% width = 5%;
-        align= "right" 
-    
-</footer>
 
 </html>
 
