@@ -1,29 +1,7 @@
-<html lang="en">
+
 <head>
     <title>/r/CFB Game Thread Tools</title>
     
-    <style>
-       body{
-       }
-        p.main{
-            padding: 70px;
-            background-color: #f1f1f1;
-            border-style: solid;
-            border-width: 1px;
-            border-color: #dcdcdc;
-            font-family: calibri;
-            font-size: 200%;
-            text-align: center;
-        }
-    
-        footer {
-            
-            font-family: calibri;
-            font-size: 75%;
-            
-        }
-        
-    </style>
     
     
    
